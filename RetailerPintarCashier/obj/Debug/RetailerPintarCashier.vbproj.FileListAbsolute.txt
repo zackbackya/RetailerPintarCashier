@@ -1,0 +1,111 @@
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe.config
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.pdb
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.xml
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbprojAssemblyReference.cache
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.HomeFrm.resources
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.LoginFrm.resources
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.MainFrm.resources
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.Resources.resources
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.GenerateResource.cache
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.CoreCompileInputs.cache
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.exe
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.xml
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.pdb
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.PenjualanProdukFrm.resources
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.s.resources
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\MySqlConnector.dll
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Memory.dll
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Buffers.dll
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\MySqlConnector.xml
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Memory.xml
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Buffers.xml
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.CopyComplete
+C:\Users\JBR\source\repos\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.AmbilCustomerFrm.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe.config
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.pdb
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.xml
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\MySqlConnector.dll
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Memory.dll
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Buffers.dll
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\MySqlConnector.xml
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Memory.xml
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Buffers.xml
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.AssemblyReference.cache
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.AmbilCustomerFrm.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.HomeFrm.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.LoginFrm.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.MainFrm.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.Resources.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.PenjualanProdukFrm.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.s.resources
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.GenerateResource.cache
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.CoreCompileInputs.cache
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.exe
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.xml
+D:\KERJAAN\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.pdb
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe.config
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.pdb
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.xml
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Memory.dll
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbprojAssemblyReference.cache
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.AmbilCustomerFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.HomeFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.LoginFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.MainFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.Resources.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.PenjualanProdukFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.s.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.GenerateResource.cache
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.CoreCompileInputs.cache
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.CopyComplete
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.exe
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.xml
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.pdb
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.PembayaranFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.AmbilNotaFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.ReturPenjualanFrm.resources
+C:\Users\JBR\OneDrive\Documents\RetailerPintar Cashier\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.TambahCustomerFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe.config
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.exe
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.pdb
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\RetailerPintarCashier.xml
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\MySqlConnector.dll
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Memory.dll
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Buffers.dll
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\MySqlConnector.xml
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Memory.xml
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Buffers.xml
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.AssemblyReference.cache
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.SuggestedBindingRedirects.cache
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.AmbilCustomerFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.AmbilNotaFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.HomeFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.LoginFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.MainFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.Resources.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.PembayaranFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.PenjualanProdukFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.ReturPenjualanFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.s.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.TambahCustomerFrm.resources
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.GenerateResource.cache
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.CoreCompileInputs.cache
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.vbproj.CopyComplete
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.exe
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.xml
+D:\Programming\VB.net\Project\RetailerPintar Cashier\RetailerPintarCashier\obj\Debug\RetailerPintarCashier.pdb
